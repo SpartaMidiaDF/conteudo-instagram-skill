@@ -177,6 +177,30 @@ PNGs 1080×1350 numerados e `legenda.txt` em `6 - Conteudo Aprovado`. Agendament
 
 Todos os modelos leem cores, fontes, @, avatar e censura do `marca.json`. Se as suas referências pedirem outro layout, a skill adapta o CSS do gerador e registra a decisão no `DESIGN.md`.
 
+### Galeria: estilos adaptados de referências
+
+Na Fase 2, a skill não fica presa aos três modelos: ela lê as referências de design que você colocou em `1 - Referencia de Designer` e adapta o layout à sua marca. Abaixo, seis carrosséis de **marcas fictícias** em nichos diferentes, cada um seguindo um modelo de referência (o código de todos está em [`exemplos/estilos/estilos.html`](exemplos/estilos/estilos.html), para servir de ponto de partida).
+
+**1. Notas em papel** — confeitaria: papel creme × vinho, título gigante em laranja, slides em moldura de app de notas.
+![Estilo notas em papel](docs/estilo-notas-laranja.jpg)
+
+**2. Caramelo com cartões** — personal trainer: tons de caramelo, etiquetas sobre o título, cartão com foto e "Estrutura:" embaixo, assinatura manuscrita.
+![Estilo caramelo com cartões](docs/estilo-caramelo-estrutura.jpg)
+
+**3. Minimalista com serifa** — odontologia: fundo cinza, uma ideia por slide, capa serifada com itálico e fechamento sobre foto.
+![Estilo minimalista com serifa](docs/estilo-minimal-serifa.jpg)
+
+**4. Corporativo azul e amarelo** — contabilidade: azul-marinho, branco e amarelo, marca d'água de círculos, botões vermelhos e card de contato.
+![Estilo corporativo azul e amarelo](docs/estilo-azul-amarelo.jpg)
+
+**5. Impacto em caixa alta** — corretor de imóveis: preto, cinza e laranja, títulos pesados em caixa alta, barra de temas no topo e @ no rodapé.
+![Estilo impacto em caixa alta](docs/estilo-preto-laranja.jpg)
+
+**6. Esteira escura** — escola de inglês: começa no escuro, alterna com papel claro, notas numeradas e CTA "Comenta PALAVRA".
+![Estilo esteira escura](docs/estilo-esteira-escura.jpg)
+
+Nos slides que pedem foto, os exemplos usam um degradê no lugar da imagem. No uso real, entram as fotos da marca.
+
 Exemplos prontos dos arquivos de entrada em [`exemplos/`](exemplos/): `marca.json`, `carrossel-conteudo.spec.json`, `carrossel-produto.spec.json` e `estaticos.json`.
 
 ---
