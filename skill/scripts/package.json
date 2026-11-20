@@ -1,0 +1,9 @@
+{
+  "name": "conteudo-instagram-scripts",
+  "private": true,
+  "description": "Scripts da skill conteudo-instagram (prévia, exportação, recorte, agendamento)",
+  "dependencies": {
+    "playwright": "1.63.0",
+    "@imgly/background-removal-node": "1.4.5"
+  }
+}

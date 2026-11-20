@@ -1,0 +1,45 @@
+{
+  "nome": "Raiz Verde",
+  "arroba": "raizverde.nutri",
+  "nicho": "nutrição",
+  "publico": "quem a marca quer atrair",
+  "avatar": "avatar.png",
+  "assinatura": "RAIZ VERDE",
+  "cores": {
+    "claro": "#f3f1ea",
+    "escuro": "#16302a",
+    "acento": "#e0703a",
+    "acento_claro": "#f08a55",
+    "texto_escuro": "#16302a",
+    "texto_claro": "#eef2ec",
+    "estatico_fundo": "#2f6b57",
+    "estatico_destaque": "#f3e7c9"
+  },
+  "fontes": {
+    "titulo": "Fraunces",
+    "texto": "Inter",
+    "manuscrita": "Caveat",
+    "produto_titulo": "Inter",
+    "detalhe": "Quicksand",
+    "estatico": "Fraunces"
+  },
+  "google_fonts": [
+    "Fraunces:ital,wght@0,400;0,700;1,400",
+    "Inter:wght@400;500;600;700;800",
+    "Caveat:wght@500;700",
+    "Quicksand:wght@400;500;600"
+  ],
+  "tom": "ex.: amiga que entende do assunto, acolhedora, humor leve",
+  "palavras_da_marca": [],
+  "palavras_proibidas": [],
+  "censura": [
+    [
+      "dieta",
+      "di.eta"
+    ]
+  ],
+  "regras": [
+    "Nunca inventar estatística, depoimento ou nome",
+    "Sem promessa de resultado de saúde"
+  ]
+}

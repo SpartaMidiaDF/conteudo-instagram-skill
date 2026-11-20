@@ -1,0 +1,18 @@
+{
+  "titulo": "Garrafa térmica Raiz 750 ml",
+  "palavra": "garrafa térmica",
+  "persona": "B",
+  "fotos": {
+    "a": { "arq": "garrafa-recorte-1.png", "w": 46, "h": 95, "top": 20 },
+    "b": { "arq": "garrafa-recorte-1.png", "w": 46, "h": 95, "top": 18, "rot": 14 }
+  },
+  "slides": [
+    { "tipo": "capa", "titulo": "Você bebe água <pk>quando lembra</pk>?", "sub": "garrafa térmica<br>que vai com você", "col": "right:24cqw" },
+    { "tipo": "texto", "titulo": "O problema não é <pk>disciplina</pk>.", "corpo": ["É água quente no fim da tarde e garrafa que vaza na bolsa.", "<b>Não é você.</b> É a garrafa."], "cap": "e se fosse gostoso beber água?", "seta": "l", "col": "right:38cqw", "fotos": [{ "id": "a", "left": 70 }] },
+    { "tipo": "produto", "pre": "Conheça a", "nome": "Raiz <pk>750.</pk>", "sub": "Garrafa térmica de aço inox", "chips": ["Gelada por 24 h", "Não vaza", "750 ml", "Sem BPA"], "cap": "três cores", "seta": "r", "col": "left:34cqw;right:6cqw", "who": "left:34cqw", "fotos": [{ "id": "a", "left": -30 }] },
+    { "tipo": "texto", "branco": true, "titulo": "Gelada até a noite.", "corpo": ["Parede dupla de inox: <b>24 horas gelada</b>, 12 horas quente."], "cap": "dados do fabricante", "seta": "l", "col": "right:22cqw", "tam": 9.4 },
+    { "tipo": "texto", "titulo": "Vai na bolsa <pk>sem medo</pk>.", "corpo": ["Tampa com rosca e vedação de silicone.", "Cabe no porta-copo do carro."], "seta": "l", "col": "right:48cqw", "fotos": [{ "id": "b", "left": 77 }] },
+    { "tipo": "passos", "titulo": "Primeira vez? <pk>3 passos.</pk>", "itens": ["Lave antes do primeiro uso.", "Encha com <b>gelo primeiro</b>, depois a água.", "Feche bem a tampa até o clique."], "seta": "r", "col": "left:44cqw;right:5cqw", "who": "left:44cqw", "fotos": [{ "id": "b", "left": -23 }] },
+    { "tipo": "cta", "titulo": "Água gostosa, <pk>o dia todo</pk>.", "botao": "Comente RAIZ", "corpo": "e a gente te manda o link no direct.", "logo": true, "col": "right:16cqw" }
+  ]
+}

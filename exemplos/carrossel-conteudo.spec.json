@@ -1,0 +1,6 @@
+{ "titulo": "Teste conteúdo", "palavra": "teste", "persona": "A", "slides": [
+ { "tipo": "capa", "kick": "Comer bem sem <b>dieta</b>?", "titulo": "Comece desaprendendo <it>5 mitos.</it>", "nota": "o 3 ninguém te contou", "tam": 12, "tamIt": 15 },
+ { "tipo": "espelho", "lead": "Ninguém nasce sabendo <it>comer bem.</it>", "ps": ["A gente aprende com propaganda e palpite.", "<b>Não é culpa sua.</b>"], "promessa": "Bora desmentir →" },
+ { "tipo": "nota", "fundo": "dark", "titulo": "1. “Carboidrato à noite engorda.”", "ps": ["O que pesa é o <b>total do dia</b>, não o horário."], "aside": "relaxa ↗" },
+ { "tipo": "virada", "fundo": "light", "d1": "Comer bem não é dieta.", "d2": "É repertório.", "p": "Quanto menos mito, <b>mais liberdade.</b>" },
+ { "tipo": "cta", "fundo": "dark", "titulo": "Manda para a amiga que <it>ainda acredita.</it>", "tarja": "Salva e compartilha", "nota": "qual você já acreditou? ↓" } ] }
